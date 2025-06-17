@@ -74,8 +74,6 @@ a:hover {
     align-items: center;
     height: 70vh;
     flex-direction: row;
-    position: relative;
- 
 }
 
 
@@ -86,9 +84,9 @@ a:hover {
     border: 4px solid black;
     border-radius: 30px;
     background-image: url(/assets/mehdi-mirzaie-YOtuvl_8fwQ-unsplash.jpg);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: center;
 }
 
 
@@ -99,9 +97,9 @@ a:hover {
     border: 4px solid black;
     border-radius: 30px;
     background-image: url(/assets/jayden-brand-0_bHzZnHyPw-unsplash.jpg);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: center;
 }
 
 
@@ -112,9 +110,9 @@ a:hover {
     border: 4px solid black;
     border-radius: 30px;
     background-image: url(/assets/sonja-punz-uTVNi0CHTlc-unsplash.jpg);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: center;
 }
 
 
@@ -125,9 +123,9 @@ a:hover {
     border: 4px solid black;
     border-radius: 30px;
     background-image: url(/assets/daniela-eckert-Sqt92xdkq10-unsplash.jpg);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: center;
 }
 
 
