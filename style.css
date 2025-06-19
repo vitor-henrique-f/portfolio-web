@@ -121,7 +121,7 @@ a:hover {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height: 70vh;
+    height: 90vh;
     flex-direction: row;
     transition: box-shadow 0.3s ease;
 
@@ -144,41 +144,4 @@ a:hover {
 
 .project4:hover {
     box-shadow: 0px 0px 10px white;
-}
-
-
-.cTitles {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    position: relative;
-    bottom: 150px;
-    color: rgb(161, 161, 161);
-    font-size:14px;
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-
-.cName1 {
-    position: relative;
-    right: 30px;    
-}
-
-
-.cName2 {
-    position: relative;
-    right: 8px;
-}
-
-
-.cName3 {
-    position: relative;
-    left: 12px;
-}
-
-
-.cName4 {
-    position: relative;
-    left: 33px;
-
 }
