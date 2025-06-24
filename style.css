@@ -6,7 +6,6 @@
 
 
 body {
-    background-image: url(/assets/vecteezy_minimalist-dark-gradient-wave-background-simple-design-for_7718309.jpg);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -136,7 +135,6 @@ a:hover {
     height: 200px;
     border: 4px solid black;
     border-radius: 30px;
-    background-image: url(/assets/mehdi-mirzaie-YOtuvl_8fwQ-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -147,8 +145,7 @@ a:hover {
     width: 200px;
     height: 200px;
     border: 4px solid black;
-    border-radius: 30px;
-    background-image: url(/assets/jayden-brand-0_bHzZnHyPw-unsplash.jpg);
+    border-radius: 30px; 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -160,7 +157,6 @@ a:hover {
     height: 200px;
     border: 4px solid black;
     border-radius: 30px;
-    background-image: url(/assets/sonja-punz-uTVNi0CHTlc-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -172,7 +168,6 @@ a:hover {
     height: 200px;
     border: 4px solid black;
     border-radius: 30px;
-    background-image: url(/assets/daniela-eckert-Sqt92xdkq10-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -238,41 +233,3 @@ a:hover {
 }
 
 
-#contato {
-    background-color: black;
-    position: relative;
-    top: 1000px;
-    height: 170px;
-    color: white;
-    text-align: center;
-}
-
-
-.tContato {
-    position: relative;
-    top: 50px;
-    font-style:italic;
-    font-size: 29px;
-}
-
-
-.brands {
-    display: flex;
-    justify-content: space-evenly;
-    position: relative;
-    top: 80px;
-    font-size: 26px;
-    
-}
-
-
-.github {
-    position: relative;
-    left: 300px;
-}
-
-
-.tiktok {
-    position: relative;
-    right: 300px;
-}
