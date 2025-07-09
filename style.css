@@ -74,7 +74,6 @@ h2 {
     bottom: 1px;
     border: 2px solid black;
     border-radius: 10px;
-    background-image: url(/assets/8998023.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -149,7 +148,7 @@ a:hover {
 .project2 {
     width: 200px;
     height: 200px;
-    background-image: url(assets/image-from-rawpixel-id-6035541-original.jpg);
+    background-image: url(/assets/image-from-rawpixel-id-6035541-original.jpg);
     border: 4px solid black;
     border-radius: 30px; 
     background-size: cover;
