@@ -136,7 +136,7 @@ a:hover {
 .project1 {
     width: 200px;
     height: 200px;
-    background-image: url(assets/image-from-rawpixel-id-10184925-jpeg.jpg);
+    background-image: url(/assets/image-from-rawpixel-id-10184925-jpeg.jpg);
     border: 4px solid black;
     border-radius: 30px;
     background-size: cover;
