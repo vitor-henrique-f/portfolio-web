@@ -67,14 +67,14 @@ h2 {
 
 
 .logo {
-    width: 53px;
-    height: 53px;
+    width: 56px;
+    height: 56px;
     position: relative;
     left: 60px;
     bottom: 1px;
     border: 2px solid black;
     border-radius: 10px;
-    background-image: url(/assets/8998023.jpg);
+    background-image: url(./assets/image-from-rawpixel-id-10158126-original.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
