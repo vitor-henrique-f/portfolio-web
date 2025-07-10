@@ -6,7 +6,7 @@
 
 
 body {
-    background-image: url(./assets/image-from-rawpixel-id-440103-jpeg.jpg);
+    background-image: url(./assets/image-from-rawpixel-id-3868144-jpeg.jpg);
     background-repeat: no-repeat;
     background-size:c;
     background-color: rgb(59, 59, 59); 
@@ -137,7 +137,7 @@ a:hover {
 .project1 {
     width: 200px;
     height: 200px;
-    background-image: url(./assets/image-from-rawpixel-id-10184925-jpeg.jpg);
+    background-image: url(./assets/image-from-rawpixel-id-8978726-original.jpg);
     border: 4px solid black;
     border-radius: 30px;
     background-size: cover;
@@ -149,7 +149,7 @@ a:hover {
 .project2 {
     width: 200px;
     height: 200px;
-    background-image: url(./assets/image-from-rawpixel-id-6035541-original.jpg);
+    background-image: url(./assets/image-from-rawpixel-id-10126703-original.jpg);
     border: 4px solid black;
     border-radius: 30px; 
     background-size: cover;
@@ -161,7 +161,7 @@ a:hover {
 .project3 {
     width: 200px;
     height: 200px;
-    background-color: rgb(51, 0, 51);
+    background-image: url(./assets/image-from-rawpixel-id-9700351-jpeg.jpg);
     border: 4px solid black;
     border-radius: 30px;
     background-size: cover;
@@ -173,7 +173,7 @@ a:hover {
 .project4 {
     width: 200px;
     height: 200px;
-    background-color: rgb(56, 0, 0);
+    background-image: url(./assets/image-from-rawpixel-id-2687286-jpeg.jpg);
     border: 4px solid black;
     border-radius: 30px;
     background-size: cover;
@@ -194,21 +194,21 @@ a:hover {
 
 
 .project1:hover {
-    box-shadow: 0px 0px 10px white;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
 }
 
 .project2:hover {
-    box-shadow: 0px 0px 10px white;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
 }
 
 
 .project3:hover {
-    box-shadow: 0px 0px 10px white;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
 }
 
 
 .project4:hover {
-    box-shadow: 0px 0px 10px white;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
 }
 
 
@@ -241,3 +241,30 @@ a:hover {
 }
 
 
+#contato {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    position: relative;
+    top: 1000px;
+    height: 200px;
+    background-color: black;
+}
+
+
+.tFooter {
+    position: absolute;
+    top: 50px;
+    color: white;
+    font-style: italic;
+}
+
+
+.brands {
+    display: flex;
+    justify-content: space-evenly;
+    width: 400px;
+    position: absolute;
+    top: 120px;
+    font-size: 40px;
+}
